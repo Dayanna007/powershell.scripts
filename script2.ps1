@@ -7,7 +7,7 @@ $form.Text = "Input Form"
 $form.Size = New-Object System.Drawing.Size(500,250)
 $form.StartPosition = "CenterScreen"
 
-############# Define labels
+############# Define labels   
 $textLabel1 = New-Object System.Windows.Forms.Label
 $textLabel1.Text = "Input 1:"
 $textLabel1.Left = 20
