@@ -19,5 +19,5 @@ sudo dpkg -i packages-microsoft-prod.deb
 # Delete the Microsoft repository keys file
 rm packages-microsoft-prod.deb
 
-# Update the list of packages after we added packages.microsoft.com
+# Update the list of packages after we added packages.microsoft.com  #por probar
 sudo apt-get update
